@@ -7,6 +7,22 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <style>
+      :root {
+        /* Reduce the font size */
+        --base-font-size: 18px;
+
+        /* Change the theme color hue (0-360) */
+        --theme-hue: 25;
+	--mono-hue: 194;
+	--mono-saturation: 6%;
+
+        /* Add sidebar navigation bullets */
+        /* --sidebar-nav-link-before-content-l1: "😀"; */
+        /* --sidebar-nav-link-before-content-l2: "💩"; */
+      }
+    </style>
+    <link rel="icon" type="image/x-icon" href="/img/favicon.png">
 </head>
 <body>
   <div id="app"></div>
@@ -14,7 +30,9 @@
     window.$docsify = {
       loadSidebar: true,
       name: 'Mundo Musical',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G5_MundoMusical_Entrega_01'
+      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G5_MundoMusical_Entrega_01',
+      logo: './img/logo.png'
+
     }
   </script>
   <!-- Docsify v4 -->
