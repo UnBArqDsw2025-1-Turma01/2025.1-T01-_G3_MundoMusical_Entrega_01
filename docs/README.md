@@ -4,24 +4,79 @@
 **Número do Grupo**: 05<br>
 **Entrega**: 01<br>
 
-<center>
 
 ## Alunos
 
-|Foto| Nome |
-|--|--|
-|<img src= "img/amanda.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Amanda Abreu](https://github.com/Amandaaaaabreu)
-|<img src= "img/arthurh.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Arthur Heleno](https://github.com/arthur-heleno)
-|<img src= "img/arthurs.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Arthur Sousa](https://github.com/arthurrsousa)
-|<img src= "img/enrico.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Enrico Zoratto](https://github.com/sidts)
-|<img src= "img/esther.png" width="150" height="150" style="border-radius: 75px"/>|[Esther Sousa](https://github.com/esthersousa)
-|<img src= "img/lais.png" width="150" height="150" style="border-radius: 75px"/>|[Laís Soares](https://github.com/Laisczt)
-|<img src= "img/lucas.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Lucas Caldas](https://github.com/lucascaldasb)
-|<img src= "img/pedrold.png" width="150" height="150" style="border-radius: 75px"/>|[Pedro Lucas Dourado](https://github.com/lucasdray)
-|<img src= "img/pedrols.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Pedro Lucas Santana](https://github.com/pedrolucas12)
-|<img src= "img/sebastian.png" width="150" height="150" style="border-radius: 75px"/>|[Sebastián Rosado](https://github.com/sebazac332)
-
+<center>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Amandaaaaabreu">
+        <img style="border-radius: 50%;" src="https://github.com/Amandaaaaabreu.png" width="150px;" alt=""/><br />
+        <sub><b>Amanda Abreu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthur-heleno">
+        <img style="border-radius: 50%;" src="https://github.com/arthur-heleno.png" width="150px;" alt=""/><br />
+        <sub><b>Arthur Heleno</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthurrsousa">
+        <img style="border-radius: 50%;" src="https://github.com/arthurrsousa.png" width="150px;" alt=""/><br />
+        <sub><b>Arthur Sousa</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sidts">
+        <img style="border-radius: 50%;" src="https://github.com/sidts.png" width="150px;" alt=""/><br />
+        <sub><b>Enrico Zoratto</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esthersousa">
+        <img style="border-radius: 50%;" src="https://github.com/esthersousa.png" width="150px;" alt=""/><br />
+        <sub><b>Esther Sousa</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Laisczt">
+        <img style="border-radius: 50%;" src="https://github.com/Laisczt.png" width="150px;" alt=""/><br />
+        <sub><b>Laís Soares</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucascaldasb">
+        <img style="border-radius: 50%;" src="https://github.com/lucascaldasb.png" width="150px;" alt=""/><br />
+        <sub><b>Lucas Caldas</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasdray">
+        <img style="border-radius: 50%;" src="https://github.com/lucasdray.png" width="150px;" alt=""/><br />
+        <sub><b>Pedro Lucas Dourado</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedrolucas12">
+        <img style="border-radius: 50%;" src="https://github.com/pedrolucas12.png" width="150px;" alt=""/><br />
+        <sub><b>Pedro Lucas Santana</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sebazac332">
+        <img style="border-radius: 50%;" src="https://github.com/sebazac332.png" width="150px;" alt=""/><br />
+        <sub><b>Sebastián Rosado</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </center>
+
+
 
 ## Sobre 
 
@@ -44,7 +99,7 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ## Histórico
 
-|Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
-|------|---------|---------|----|-----------|---------------|
-| 1.0  | Nomes dos participantes adicionados ao templete | Laís Soares | 07/04/2025 | ||
-| 1.1  | Resto do template preenchido | Laís Soares | 10/04/2025 | ||
+| Versão | Descrição                                       | Autor(es)                                 | Data       | Revisor(es)                                       | Data de revisão |
+| ------ | ----------------------------------------------- | ----------------------------------------- | ---------- | ------------------------------------------------- | --------------- |
+| 1.0    | Nomes dos participantes adicionados ao templete | [Laís Soares](https://github.com/Laisczt) | 07/04/2025 | [Pedro Lucas Dourado](https://github.com/Laisczt) | 10/04/2025      |
+| 1.1    | Resto do template preenchido                    | [Laís Soares](https://github.com/Laisczt) | 10/04/2025 | [Pedro Lucas Dourado](https://github.com/Laisczt) | 10/04/2025      |
