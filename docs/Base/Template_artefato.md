@@ -32,11 +32,11 @@ Forneça detalhes adicionais ou explore subtemas relacionados à seção princip
 
 Continue a estrutura do documento com novas seções conforme necessário, mantendo a coerência e a fluidez das informações.
 
-## 6. Análise e Conclusão
+## 5. Análise e Conclusão
 
 Forneça uma interpretação dos resultados, discutindo seu significado e implicações. Conclua o documento resumindo os pontos-chave e sugerindo próximos passos ou recomendações.
 
-## Referências Bibliográficas
+## 6. Referências Bibliográficas
 
 Liste todas as fontes consultadas ou citadas no documento, seguindo um padrão de formatação consistente (ABNT, APA, etc.).
 
@@ -44,7 +44,7 @@ Liste todas as fontes consultadas ou citadas no documento, seguindo um padrão d
 
 > <a id="REF2" href="#anchor_2">2.</a> Autor, N. (Ano). _Título do Site ou Documento Online_. Disponível em: [link]. Acesso em: data de acesso.
 
-## Histórico de Versão
+## 7. Histórico de Versão
 
 | Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       | Detalhes da revisão        |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | -------------------------- |
