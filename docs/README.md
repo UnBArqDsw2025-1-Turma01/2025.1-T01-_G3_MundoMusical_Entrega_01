@@ -13,31 +13,36 @@
     <td align="center">
       <a href="https://github.com/Amandaaaaabreu">
         <img style="border-radius: 50%;" src="https://github.com/Amandaaaaabreu.png" width="150px;" alt=""/><br />
-        <sub><b>Amanda Abreu</b></sub>
+        <sub><b>Amanda Abreu <br></b></sub>
+        <sub><b>Matrícula: 211030925</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/arthur-heleno">
         <img style="border-radius: 50%;" src="https://github.com/arthur-heleno.png" width="150px;" alt=""/><br />
-        <sub><b>Arthur Heleno</b></sub>
+        <sub><b>Arthur Heleno<br></b></sub>
+        <sub><b>Matrícula: 180116746</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/arthurrsousa">
         <img style="border-radius: 50%;" src="https://github.com/arthurrsousa.png" width="150px;" alt=""/><br />
-        <sub><b>Arthur Sousa</b></sub>
+        <sub><b>Arthur Sousa<br></b></sub>
+        <sub><b>Matrícula: 211030291</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sidts">
         <img style="border-radius: 50%;" src="https://github.com/sidts.png" width="150px;" alt=""/><br />
-        <sub><b>Enrico Zoratto</b></sub>
+        <sub><b>Enrico Zoratto<br></b></sub>
+        <sub><b>Matrícula: 222006688</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/esthersousa">
         <img style="border-radius: 50%;" src="https://github.com/esthersousa.png" width="150px;" alt=""/><br />
-        <sub><b>Esther Sousa</b></sub>
+        <sub><b>Esther Sousa<br></b></sub>
+        <sub><b>Matrícula: 190106034</b></sub>
       </a>
     </td>
   </tr>
@@ -45,31 +50,36 @@
     <td align="center">
       <a href="https://github.com/Laisczt">
         <img style="border-radius: 50%;" src="https://github.com/Laisczt.png" width="150px;" alt=""/><br />
-        <sub><b>Laís Soares</b></sub>
+        <sub><b>Laís Soares<br></b></sub>
+        <sub><b>Matrícula: 211029512</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lucascaldasb">
         <img style="border-radius: 50%;" src="https://github.com/lucascaldasb.png" width="150px;" alt=""/><br />
-        <sub><b>Lucas Caldas</b></sub>
+        <sub><b>Lucas Caldas<br></b></sub>
+        <sub><b>Matrícula: 190091606</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasdray">
         <img style="border-radius: 50%;" src="https://github.com/lucasdray.png" width="150px;" alt=""/><br />
-        <sub><b>Pedro Lucas Dourado</b></sub>
+        <sub><b>Pedro Lucas Dourado<br></b></sub>
+        <sub><b>Matrícula: 211039680</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/pedrolucas12">
         <img style="border-radius: 50%;" src="https://github.com/pedrolucas12.png" width="150px;" alt=""/><br />
-        <sub><b>Pedro Lucas Santana</b></sub>
+        <sub><b>Pedro Lucas Santana<br></b></sub>
+        <sub><b>Matrícula: 202017049</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sebazac332">
         <img style="border-radius: 50%;" src="https://github.com/sebazac332.png" width="150px;" alt=""/><br />
-        <sub><b>Sebastián Rosado</b></sub>
+        <sub><b>Sebastián Rosado<br></b></sub>
+        <sub><b>Matrícula: 211006957</b></sub>
       </a>
     </td>
   </tr>
