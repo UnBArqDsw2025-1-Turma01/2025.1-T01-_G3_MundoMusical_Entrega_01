@@ -17,4 +17,7 @@
     - 1.5. Iniciativas Extras
       - [1.5.1 Heatmap](/Base/1.5.IniciativasExtras/1.5.1.Heatmap.md)
       - [1.5.2 Template Artefato](/Base/1.5.IniciativasExtras/1.5.2.Template_artefato.md)
+      - [1.5.3 Ferramentas Utilizadas](/Base/1.5.IniciativasExtras/1.5.3.Ferramentas.md)
+      - [1.5.4 Questionario](/Base/1.5.IniciativasExtras/1.5.4.Questionario.md)
+      - [1.5.5 TermoConsentimento](/Base/1.5.IniciativasExtras/1.5.5.TermoConsentimento.md)
   - **2. Reuniões**
