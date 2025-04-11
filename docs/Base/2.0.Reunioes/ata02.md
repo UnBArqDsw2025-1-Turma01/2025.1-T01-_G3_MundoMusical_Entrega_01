@@ -97,4 +97,4 @@ Criação da Wiki/Base com seções 1.1, 1.2, 1.3, 1.4, 1.5, com foco em:
 
 | Versão | Data       | Data de Revisão | Descrição                                                                                     | Autor(es)                                           | Revisor(es) | Detalhes da revisão |
 |--------|------------|-----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|---------------------|
-| `1.0`  | 03/04/2025 |                 | Criação do documento (baseado na ata registrada pelos participantes da reunião)              | [Pedro Lucas Dourado](https://github.com/lucasdray) |             |                     |
+| `1.0`  | 10/04/2025 |                 | Criação do documento (A ata foi criada por [Amanda Abreu](https://github.com/Amandaaaaabreu)) | [Pedro Lucas Dourado](https://github.com/lucasdray) |     [Amanda Abreu](https://github.com/Amandaaaaabreu)         |     Revisão e atualização da ata                   |

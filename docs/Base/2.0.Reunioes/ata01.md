@@ -53,4 +53,4 @@
 
 | Versão | Data       | Data de Revisão | Descrição                                                                                     | Autor(es)                                           | Revisor(es) | Detalhes da revisão |
 | ------ | ---------- | --------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------- | ------------------- |
-| `1.0`  | 01/04/2025 |                 | Criação do documento (A ata foi criada por [Amanda Abreu](https://github.com/Amandaaaaabreu)) | [Pedro Lucas Dourado](https://github.com/lucasdray) |             |                     |
+| `1.0`  | 10/04/2025 |                 | Criação do documento (A ata foi criada por [Amanda Abreu](https://github.com/Amandaaaaabreu)) | [Pedro Lucas Dourado](https://github.com/lucasdray) |      [Amanda Abreu](https://github.com/Amandaaaaabreu)       |         Revisão e atualização da ata               |
