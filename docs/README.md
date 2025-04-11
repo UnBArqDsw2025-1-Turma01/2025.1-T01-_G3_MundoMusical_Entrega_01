@@ -108,8 +108,8 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 [SEÇÃO VAZIA]
 
 ## 6. Histórico de Versão
-| Versão | Data       | Data de Revisão | Descrição            | Autor(es)                                           | Revisor(es) | Detalhes da revisão |
-| ------ | ---------- | --------------- | -------------------- | --------------------------------------------------- | ----------- | ------------------- |
-| `1.0`  | 07/04/2025 | 10/04/2025      | Nomes dos participantes adicionados ao templete | [Laís Soares](https://github.com/Laisczt) |   [Pedro Lucas Dourado](https://github.com/lucasdray) |                     |
-| `1.1`  | 07/04/2025 | 10/04/2025      | Resto do template preenchido | [Laís Soares](https://github.com/Laisczt) |   [Pedro Lucas Dourado](https://github.com/lucasdray) |                     |
-| `1.2`  | 07/04/2025 | 10/04/2025      | Formatação | [Laís Soares](https://github.com/Laisczt) |   [Pedro Lucas Dourado](https://github.com/lucasdray) |                     |
+| Versão | Data       | Data de Revisão | Descrição                                       | Autor(es)                                 | Revisor(es)                                         | Detalhes da revisão                                                              |
+| ------ | ---------- | --------------- | ----------------------------------------------- | ----------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------- |
+| `1.0`  | 07/04/2025 | 10/04/2025      | Nomes dos participantes adicionados ao templete | [Laís Soares](https://github.com/Laisczt) | [Pedro Lucas Dourado](https://github.com/lucasdray) | -                                                                                |
+| `1.1`  | 07/04/2025 | 10/04/2025      | Resto do template preenchido                    | [Laís Soares](https://github.com/Laisczt) | [Pedro Lucas Dourado](https://github.com/lucasdray) | -                                                                                |
+| `1.2`  | 07/04/2025 | 10/04/2025      | Formatação                                      | [Laís Soares](https://github.com/Laisczt) | [Pedro Lucas Dourado](https://github.com/lucasdray) | Adicionado a matrícula dos alunos, reformulado a disposição dos alunos na tabela |
